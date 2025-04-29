@@ -3,19 +3,21 @@
 Para realizar o projeto, atente-se a cada passo descrito a seguir.
 Aqui, você vai encontrar os detalhes de como estruturar o desenvolvimento do seu projeto a partir desse repositório, utilizando uma branch específica e um Pull Request para colocar seus códigos.
 
-## Entregáveis, Product Backlog.
+## Desafio
 
 Descrição: Historias do usuário.
 
-1. Como cliente da empresa e usuário do portal, eu quero, na página index, ver a fonte com os nomes
-dos veículos na cor azul para me proporcionar uma melhor experiência de usuário.
+1. Na branch index, você deverá editar e alterar o arquivo index.html (pode usar qualquer editor de texto), mudando a
+cor do texto do nome dos veículos para azul.
 
-2. Como cliente da empresa e usuário do portal, eu gostaria de acessar os detalhes dos veículos com
-menos cliques para eu otimizar meu tempo de acesso ao portal.
+2. Na branch contato, você deverá realizar alterações em algumas linhas do arquivo contato.html (pode usar qualquer editor de
+texto), mudando a descrição dos links.
 
-3. Como cliente da empresa e usuário do portal, eu quero, na página contato, que os nomes dos links
-para as outras páginas sejam mais detalhadas para facilitar o meu entendimento e a minha
-navegação no portal.
+3. Após fazer essas alterações, você deverá realizar um merge de cada branch (index e contato) com a branch principal
+(geralmente, denominada main ou master).
 
-4. Como cliente da empresa e usuário do portal, eu gostaria de poder comparar as especificidades de
-mais de um veículo para que eu pudesse escolher o veículo mais adequado para mim.
+4. Em seguida, as alterações feitas na sua máquina local deverão ser enviadas para o repositório remoto, no GitHub.
+Ao final do sprint, ocorre a reunião Sprint Retrospective, onde é discutido o que funcionou e o que não funcionou,
+conforme planejamento no Sprint Planning. Então, agora que o sprint foi finalizado, você deverá criar o documento da
+Sprint Retrospective, contendo a sua percepção do que funcionou de forma adequada, o que não funcionou de forma
+adequada e sugestões de melhoria.
