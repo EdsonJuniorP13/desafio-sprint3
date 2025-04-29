@@ -5,8 +5,6 @@ Aqui, você vai encontrar os detalhes de como estruturar o desenvolvimento do se
 
 ## Desafio
 
-Descrição: Historias do usuário.
-
 1. Na branch index, você deverá editar e alterar o arquivo index.html (pode usar qualquer editor de texto), mudando a
 cor do texto do nome dos veículos para azul.
 
