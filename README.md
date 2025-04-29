@@ -3,7 +3,7 @@
 Para realizar o projeto, atente-se a cada passo descrito a seguir.
 Aqui, você vai encontrar os detalhes de como estruturar o desenvolvimento do seu projeto a partir desse repositório, utilizando uma branch específica e um Pull Request para colocar seus códigos.
 
-## Entregáveis, *Product Backlog.
+## Entregáveis, Product Backlog.
 
 Descrição: Historias do usuário.
 
